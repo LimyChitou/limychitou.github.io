@@ -14,10 +14,16 @@
 <loc>http://localhost:4000/page/gallery/environments/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/page/gallery/hardsurface/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/music/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page/gallery/organic/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/portfolio/</loc>
