@@ -4,4 +4,10 @@ var store = [{
         "tags": [],
         "url": "/2022/09/25/development.html",
         "teaser": null
+      },{
+        "title": "This Website",
+        "excerpt":"So, you might be asking “What will this website be?” Besides a glorified selfcongratulation document? Well, I will post all that I think, do, or even plan to do, here. “So that’s it?” You might be asking, if you’re asking anything at all. “No” I answer, but refuse to elaborate...","categories": [],
+        "tags": [],
+        "url": "/2022/09/29/website.html",
+        "teaser": null
       }]
