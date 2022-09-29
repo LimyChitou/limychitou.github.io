@@ -8,10 +8,16 @@
 <loc>http://localhost:4000/page/blog/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/page/gallery/characters/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/page/contact/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/gallery/environments/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page/gallery/graphics/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/gallery/hardsurface/</loc>
