@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/2022/09/29/website.html",
         "teaser": null
+      },{
+        "title": "So I kinda Forgor...",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2023/08/31/site-neglect&update.html",
+        "teaser": null
       }]

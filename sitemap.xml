@@ -9,10 +9,17 @@
 <lastmod>2022-09-29T23:00:00+03:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/2023/08/31/site-neglect&amp;update.html</loc>
+<lastmod>2023-08-31T10:09:10+03:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/page/blog/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/gallery/characters/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/construction.html</loc>
 </url>
 <url>
 <loc>http://localhost:4000/page/contact/</loc>
@@ -43,6 +50,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/page/test/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page/gallery/test/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/test.html</loc>
